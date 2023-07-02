@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Wajahat Ahmad AKA wajahati</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/wajahatii/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://medium.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
+
+<a href="https://www.instagram.com/wajahatii/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahati&label=Profile%20views&color=0e75b6&style=flat" alt="wajahati" /> </p>
 
@@ -35,3 +47,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahati&show_icons=true&locale=en" alt="wajahati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahati&" alt="wajahati" /></p>
+
+![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake.svg)
