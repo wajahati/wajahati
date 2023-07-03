@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wajahat Ahmad AKA wajahati</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=F8F8F8&background=22222234&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;ML+Expert" alt="Typing SVG" /></a></h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=10000&color=7BF7ED&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,I'm+Wajahat+Ahmad!" alt="Typing SVG" /></a></h1>
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=Software+Engineer;Full-Stack+Developer;ML+Expert" alt="Typing SVG" /></a></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/wajahatii/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
