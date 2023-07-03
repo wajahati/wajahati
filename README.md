@@ -19,7 +19,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/wajahati/wajahati/blob/main/1_g93P5R81A26P-N03BpCr7A.gif">
 
-+ 🔭 I’m currently working on **ZAROORAT**
+
++ 🔭 I’m currently working on  **ZAROORAT**
 + 🌱 I’m currently learning **.NET**
 + 👯 I’m looking to collaborate on **React Native**
 + 👨‍💻 All of my projects are available at [Repositories](https://github.com/wajahati?tab=repositories)
@@ -68,3 +69,11 @@
 <p><a href="https://www.buymeacoffee.com/wajahati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wajahati" /></a></p><br><br>
 
 
+<div align="center">
+  <br>
+  <p >
+    If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
+  <a href="mailto:ahmadwajahat312@gmail.com">
+      <img width="30px" src="https://github.com/GaganpreetKaurKalsi/GaganpreetKaurKalsi/blob/main/assests/gmail.svg" />
+  </a></p>
+</div>
