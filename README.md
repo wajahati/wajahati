@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=10000&color=7BF7ED&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,I'm+Wajahat+Ahmad!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=999999999&color=7BF7ED&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,I'm+Wajahat+Ahmad!" alt="Typing SVG" /></a></h1>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=Software+Engineer;Full-Stack+Developer;ML+Expert" alt="Typing SVG" /></a></h3>
 <p align="center">
@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahati&label=Profile%20views&color=0e75b6&style=flat" alt="wajahati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahati&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wajahati" /> </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/wajahati/wajahati/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.webp"> -->
 
 <img align="right" alt="Coding" width="400" src="https://github.com/wajahati/wajahati/blob/main/1_g93P5R81A26P-N03BpCr7A.gif">
