@@ -50,9 +50,11 @@
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&duration=1&pause=99999999999999&color=7BF7ED&vCenter=true&multiline=true&width=770&height=45&lines=%F0%9F%93%8A+GitHub+Stats%3A" alt="Typing SVG" /></a></h3>
 
-<p><img align="left" src="https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&border_radius=20&background=45%2C00121D%2C003927CC&border=000000&stroke=7BF7ED&ring=7BF7ED&fire=7BF7ED&currStreakNum=7BF7ED&sideNums=7BF7ED&currStreakLabel=7BF7ED&sideLabels=7BF7ED&dates=7BF7ED&excludeDaysLabel=7BF7ED" alt="muhammedh-shadir" /></p>
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&border_radius=20&border=000000&stroke=7BF7ED&ring=7BF7ED&fire=7BF7ED&currStreakNum=7BF7ED&sideNums=7BF7ED&currStreakLabel=7BF7ED&sideLabels=7BF7ED&dates=7BF7ED&excludeDaysLabel=7BF7ED&background=45%2C00121D%2C1F3F3C)](https://git.io/streak-stats)-->
+<p><img align="left" src="https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&border_radius=20&type=svg-xml&background=45%2C00121D%2C1F3F3C&border=000000&stroke=7BF7ED&ring=7BF7ED&fire=7BF7ED&currStreakNum=7BF7ED&sideNums=7BF7ED&currStreakLabel=7BF7ED&sideLabels=7BF7ED&dates=7BF7ED&excludeDaysLabel=7BF7ED" alt="wajahati" /></p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wajahati&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" alt="muhammedh-shadir" /></p> -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="wajahati" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="wajahati" /></p>
 
 ![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake.svg)
 
