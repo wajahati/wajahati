@@ -42,7 +42,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,cs,cpp,c,java,py,firebase,mongodb,mysql,tensorflow,heroku,postman,fastapi,flask,dotnet,react,eclipse,git&perline=11" />
-<!--      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> -->
   </a>
 </p>
 
@@ -56,8 +55,8 @@
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wajahati&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" alt="muhammedh-shadir" /></p>&border_radius=20 -->
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&layout=donut&hide=Blade&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=45%2C00121D%2C1F3F3C&border_color=000000&text_color=7BF7ED&title_color=7BF7ED&border_radius=20&icon_color=7BF7ED" alt="wajahati" /></p>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&layout=donut&hide=[Blade]&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
+-------
 
 ![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake.svg)
 
@@ -82,3 +81,6 @@
       <img width="30px" src="https://github.com/GaganpreetKaurKalsi/GaganpreetKaurKalsi/blob/main/assests/gmail.svg" />
   </a></p>
 </div>
+
+
+![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake.svg)
