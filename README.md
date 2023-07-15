@@ -51,9 +51,12 @@
 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&border_radius=20&border=000000&stroke=7BF7ED&ring=7BF7ED&fire=7BF7ED&currStreakNum=7BF7ED&sideNums=7BF7ED&currStreakLabel=7BF7ED&sideLabels=7BF7ED&dates=7BF7ED&excludeDaysLabel=7BF7ED&background=45%2C00121D%2C1F3F3C)](https://git.io/streak-stats)-->
+
+<div align="center">
 <p><img align="left" src="https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&type=svg-xml&background=45%2C00121D%2C1F3F3C&border=000000&stroke=7BF7ED&ring=7BF7ED&fire=7BF7ED&currStreakNum=7BF7ED&sideNums=7BF7ED&currStreakLabel=7BF7ED&sideLabels=7BF7ED&dates=7BF7ED&excludeDaysLabel=7BF7ED&border_radius=20" alt="wajahati" /></p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wajahati&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" alt="muhammedh-shadir" /></p>&border_radius=20 -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&layout=donut&hide=Blade&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=45%2C00121D%2C1F3F3C&border_color=000000&text_color=7BF7ED&title_color=7BF7ED&border_radius=20&icon_color=7BF7ED" alt="wajahati" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&layout=donut&hide=Blade&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=45%2C00121D%2C1F3F3C&border_color=000000&text_color=7BF7ED&title_color=7BF7ED&border_radius=20&icon_color=7BF7ED&card_width=260" alt="wajahati" /></p>
+</div>
 
 
 -------
