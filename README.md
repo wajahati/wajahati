@@ -58,9 +58,10 @@
 
 
 
-
+-------
 <!--![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake.svg)-->
 
+![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake-dark.svg)
 -------
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=20&duration=1&pause=99999999999999&color=7BF7ED&vCenter=true&multiline=true&width=770&height=45&lines=Connect+With+Me%3A" alt="Typing SVG" /></a></h3>
@@ -84,4 +85,3 @@
 </div>
 
 
-![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake-dark.svg)
