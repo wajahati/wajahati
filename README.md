@@ -40,7 +40,7 @@
 -->
 
 <p align="left">
-  <a href="">
+  <a href="https://www.linkedin.com/in/wajahatii/">
     <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,cs,cpp,c,java,py,firebase,mongodb,mysql,tensorflow,heroku,postman,fastapi,flask,dotnet,react,eclipse,git&perline=11" />
   </a>
 </p>
