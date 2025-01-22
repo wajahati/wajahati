@@ -26,7 +26,7 @@
 + 👨‍💻 All of my projects are available at [Repositories](https://github.com/wajahati?tab=repositories)
 + 💬 Ask me about **React Native, Machine Learning**
 + 📫 How to reach me **ahmadwajahat312@gmail.com**
-+ 📄 Know about my experiences [Resume](https://www.linkedin.com/in/wajahatii/overlay/1729271490624/single-media-viewer/?profileId=ACoAADJB3P0BxeeH4qM5MNv_HHy7Tk_fhh8mK5k)
++ 📄 Know about my experiences [Resume](https://www.linkedin.com/in/wajahati-ahmad/overlay/1735419363635/single-media-viewer/?profileId=ACoAADJB3P0BxeeH4qM5MNv_HHy7Tk_fhh8mK5k)
 + ⚡ Fun fact **I'm an introvert**
 
 -------
