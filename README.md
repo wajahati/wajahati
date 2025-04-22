@@ -1,4 +1,4 @@
-<h1 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=999999999&color=7BF7ED&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,I'm+WaJAHaT+AHMAD!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=999999999&color=7BF7ED&center=true&vCenter=true&width=900&height=100&lines=Hi%F0%9F%91%8B%2CI'm+WAJAHAT+AHMAD!" alt="Typing SVG" /></a></h1>
 
 <h3 align="center"><a href="\"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=SoftwarE+EngineeR;FulL-StacK+DevelopeR;ML+ExperT" alt="Typing SVG" /></a></h3>
 <p align="center">
