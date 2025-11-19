@@ -20,11 +20,11 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/wajahati/wajahati/blob/main/1_g93P5R81A26P-N03BpCr7A.gif">
 
 
-+ 🔭 I’m currently working on  **ZAROORAT**
-+ 🌱 I’m currently learning **.NET**
-+ 👯 I’m looking to collaborate on **React Native**
++ 🔭 I’m currently working on my thesis in **Spring Boot**
++ 🌱 I’m currently polishing my skills in **Java Spring Boot**
++ 👯 I’m open to collaborate on **.NET** and **Spring Boot**
 + 👨‍💻 All of my projects are available at [Repositories](https://github.com/wajahati?tab=repositories)
-+ 💬 Ask me about **React Native, Machine Learning**
++ 💬 Ask me about **distributed caching**, and **pub/sub** (**Redis**, **Kafka/RabbitMQ patterns**)
 + 📫 How to reach me **ahmadwajahat312@gmail.com**
 + 📄 Know about my experiences [Resume](https://www.linkedin.com/in/wajahati-ahmad/overlay/1735419363635/single-media-viewer/?profileId=ACoAADJB3P0BxeeH4qM5MNv_HHy7Tk_fhh8mK5k)
 + ⚡ Fun fact **I'm an introvert**
